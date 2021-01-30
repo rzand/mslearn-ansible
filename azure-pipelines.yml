@@ -16,3 +16,4 @@ steps:
     inventoryFileSourceRemoteMachine: 'agentMachine'
     inventoryFileLinkedArtifactOnRemoteMachine: 'azure_rm.yml'
     args: '--private-key ~/.ssh/ansible_rsa'
+    ##
